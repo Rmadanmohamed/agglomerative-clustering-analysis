@@ -1,0 +1,12 @@
+{
+  "repo": "agglomerative-clustering-analysis",
+  "title": "Agglomerative Clustering Analysis",
+  "category": "Data-Science-Projects",
+  "description": "A clustering notebook using hierarchical clustering, dendrogram visualization, imputation, label encoding, and feature scaling.",
+  "topics": [
+    "data-science",
+    "clustering",
+    "scikit-learn",
+    "hierarchical-clustering"
+  ]
+}
